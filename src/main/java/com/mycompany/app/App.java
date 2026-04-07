@@ -10,7 +10,7 @@ public class App {
     public App() {}
 
     public static void main(String[] args) {
-        System.out.println("New Jenkins is boring, I don't know why i am using it!!");
+        System.out.println("New GitMaven Jenkins is boring, I don't know why i am using it!!");
     }
 
     public String getMessage() {
